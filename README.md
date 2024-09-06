@@ -28,6 +28,9 @@ The project uses Streamlit for a user-friendly interface and the Gemini model fo
    ```python
     pip install -r requirements.txt
    ```
+   ```python
+    pip install -q -U google-generativeai
+   ```
 3. Create your own api key for gemini model and paste it in [api.py](https://github.com/umerfar123/Virtual-Math/blob/main/api.py) file.
 
    ```
