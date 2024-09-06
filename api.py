@@ -1,1 +1,1 @@
-apk= 'AIzaSyBftyAMQwKRgyt7aBfTbUJfxAoWHUyDYiY'
+apk= 'your api key'
